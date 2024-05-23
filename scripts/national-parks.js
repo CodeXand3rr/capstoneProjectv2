@@ -1,9 +1,7 @@
 "use strict";
 window.onload = function () {
-  /*   const nationalParkTB = document.querySelector("#nationalParkTB");
-  const parkList = document.querySelector("#parkList");
- */
-  const radioButtonForm = document.querySelector("#radioButtonForm");
+  
+  
   const locationOption = document.querySelector("#locationOption");
   const parkOption = document.querySelector("#parkOption");
   const statesList = document.querySelector("#statesList");
